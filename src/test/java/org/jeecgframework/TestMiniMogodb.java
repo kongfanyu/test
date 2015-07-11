@@ -9,10 +9,12 @@ public class TestMiniMogodb {
 	
 	public static void main(String[] args) {
 		//new TestMiniMogodb().createDatabse();//创建数据库
-		new TestMiniMogodb().insertData();//插入数据
+		//new TestMiniMogodb().insertData();//插入数据
 		//new TestMiniMogodb().updateData();//修改数据
 		//new TestMiniMogodb().deleteData();//删除数据
 		//new TestMiniMogodb().listAll();//列表数据
+		System.out.println("AAA");
+		System.out.println("BBB");
 	}
 	
 	
